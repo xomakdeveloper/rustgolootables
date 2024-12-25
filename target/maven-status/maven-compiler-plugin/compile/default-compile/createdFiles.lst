@@ -1,0 +1,10 @@
+org\xomakdev\rustgo\utils\BarrelBossBarManager.class
+org\xomakdev\rustgo\commands\SetBarrelCommand.class
+org\xomakdev\rustgo\commands\DeleteBarrelCommand.class
+org\xomakdev\rustgo\commands\GiveCustomToolCommand.class
+org\xomakdev\rustgo\commands\RespawnAllBarrelsCommand.class
+org\xomakdev\rustgo\commands\ListBarrelsCommand.class
+org\xomakdev\rustgo\Main.class
+org\xomakdev\rustgo\listeners\BarrelInteractionListener$1.class
+org\xomakdev\rustgo\listeners\BarrelInteractionListener.class
+org\xomakdev\rustgo\data\BarrelDataManager.class

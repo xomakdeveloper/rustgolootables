@@ -1,0 +1,20 @@
+name: RustGoLootables
+version: '1.0'
+main: org.xomakdev.rustgo.Main
+api-version: '1.18'
+prefix: RGLT
+load: STARTUP
+authors: [XomakDev, NightCore]
+description: Private lootable containers and barrels plugin for RustGo
+website: http://dsc.gg/rustgo
+commands:
+  setbarrel:
+    description: Установить бочку на месте игрока.
+  givecustomtool:
+    description: Выдать кастомный инструмент.
+  respawnall:
+    description: Зареспавнить все существующие бочки.
+  deletebarrel:
+    description: Удалить бочку через её ID.
+  listbarrels:
+    description: Список всех бочек а так же их ID.

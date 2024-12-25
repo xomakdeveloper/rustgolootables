@@ -1,0 +1,27 @@
+tools:
+  wooden_axe:
+    damage: 5
+    custom_model_data: 1
+    name: "&6Деревянный топор"
+    lore:
+      - "&7Простой инструмент для работы"
+  stone_axe:
+    damage: 10
+    custom_model_data: 2
+    name: "&7Каменный топор"
+    lore:
+      - "&7Надежный инструмент с увеличенным уроном"
+  iron_axe:
+    damage: 15
+    custom_model_data: 3
+    name: "&fЖелезный топор"
+    lore:
+      - "&7Инструмент для серьёзных дел"
+
+barrels:
+  wood_barrel:
+    max_hp: 100
+    respawn_time: 5 # в секундах
+    loot:
+      - "IRON_INGOT 1"
+      - "EMERALD 3"
